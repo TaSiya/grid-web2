@@ -1,0 +1,99 @@
+body{
+   background-color: #ddda;
+}
+
+#name{
+   text-align:center;
+   font-family: Indie Flower, Arial, sans-serif;
+}
+
+#navigation{ margin-top: 4em;}
+
+#trending{ margin-top: 4em;}
+
+#content img{
+   width:50%;
+   border-radius: 35%;
+   margin-left: 5em;
+   border: dotted 2px #000;
+}
+
+#profile{
+   font-family:  'Anton', sans-serif;
+}
+
+#tai{
+   margin-top: 3em;
+   font-family:  'Anton', sans-serif;
+}
+
+#img2 img{
+   width:100%;
+   border-radius: 70%;
+   border: dotted 2px ;
+}
+
+#img1 img{
+   width:100%;
+   border-radius: 70%;
+   border: dotted 2px ;
+}
+
+#langaugeHead{
+   font-family: 'Amatic SC', cursive;
+}
+
+th{
+   color: #9C7000;
+}
+
+tr:hover{
+   background-color: #000;
+   color:#fff;
+}
+
+th:hover{
+   background-color: #D05261;
+}
+
+#headHist{
+   text-align:center;
+   font-family: Indie Flower, Arial, sans-serif;
+}
+
+#district ul{
+   width:60%;
+}
+
+#cities{
+   display: block;
+}
+
+#district img{
+   border-radius:10%;
+   width:100%;
+}
+
+#castle ul{
+   width:60%;
+   float:none;
+}
+
+#castle img{
+   border-radius:10%;
+   width:100%;
+}
+
+#hall ul{
+   width:60%;
+   float:none;
+}
+
+#hall img{
+   border-radius:10%;
+   width:100%;
+}
+
+#footer{
+   text-align: center;
+}
