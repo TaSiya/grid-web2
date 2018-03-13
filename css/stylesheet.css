@@ -97,3 +97,13 @@ th:hover{
 #footer{
    text-align: center;
 }
+
+#footer a{
+      font-style: italic;
+      font-weight: bolder;
+      color: #1EAEDB; }
+
+}
+
+a:hover {
+ color: #0FA0CE; }
